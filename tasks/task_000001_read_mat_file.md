@@ -18,7 +18,7 @@ If you are using windows with a version of python less than 3.5.3, then you may 
 py.exe -m pip3 install scipy
 ```
 
-After it installs, you can load `scipy.io` module and give it a (short alias)[https://stackoverflow.com/questions/706595/can-you-define-aliases-for-imported-modules-in-python] with the following command.
+After it installs, you can load `scipy.io` module and give it a [short alias](https://stackoverflow.com/questions/706595/can-you-define-aliases-for-imported-modules-in-python) with the following command.
 
 
 ```
@@ -28,4 +28,4 @@ import scipy.io as sio
 This will allow you to use the `scipy.io.loadmat` function using `sio.loadmat`.
 If you do an online search for `scipy.io.loadmat`, you will find detailed examples for using the function. 
 
-(See this one)[https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html] and then try to write a python script which will load `toydata.mat`.
+[See this one](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html) and then try to write a python script which will load `toydata.mat`.

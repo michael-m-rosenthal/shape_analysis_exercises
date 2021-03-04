@@ -1,6 +1,6 @@
 # Download git and pull the shape_analysis_exercises repository
 
-If you do an online search for git, you should find the project website [](https://git-scm.com/). It will tell you how to download it.
+If you do an online search for git, you should find the project website [git-scm](https://git-scm.com/). It will tell you how to download it.
 
 Once you have git installed, you can clone the remote repository hosted on github to a local repository on your computer. 
 [Here](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction/) is a web article which explains how working with remote repositories works.
