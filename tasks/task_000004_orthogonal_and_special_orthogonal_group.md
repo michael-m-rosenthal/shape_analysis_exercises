@@ -5,7 +5,7 @@ This will show you one way to do so.
 
 # Compute a basis for the set of skew symmetric matrices
 
-In section 2.1.2 from [my dissertation](https://diginole.lib.fsu.edu/islandora/object/fsu%3A254496), I describe the special orthogonal group. 
+In section 2.1.2 from  my dissertation [https://diginole.lib.fsu.edu/islandora/object/fsu%3A254496](https://diginole.lib.fsu.edu/islandora/object/fsu%3A254496), I describe the special orthogonal group. 
 Compute that basis $M_{1,2},\ldots M_{d-1,d}$.
 
 # Compute a random skew symmetric basis
